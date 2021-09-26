@@ -9,7 +9,7 @@ const SelectedTeacher = (props) => {
         <div>
                  <h2 className="heading"><i class="fas fa-users"></i> List of Selected Teacher</h2>
                 <div className="cart">
-                <h2>Total Members : {props.members.length} <i class="fas fa-check-square"></i></h2>
+                    <h2>Total Members : {props.members.length} <i class="fas fa-check-square"></i></h2>
                     <h3>Total Salary :$ {total} </h3>
                     <ul>
                     {
