@@ -1,0 +1,11 @@
+.heading{
+    border-bottom: 1px solid gray;
+}
+.cart{
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px gray;
+    text-align: start;
+    padding: 5px;
+    /* background-color: rgb(84, 219, 219);; */
+}

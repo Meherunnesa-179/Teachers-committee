@@ -1,0 +1,137 @@
+[
+    {
+        "name":"Dr. M. M. A. Hashem",
+        "weblink":"http://www.kuet.ac.bd/cse/hashem/",
+        "designation":"Professor",
+        "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/110_2015-11-30_1448865412.jpg",
+        "phone":"+88041-769468 ~ 75 Ext- 351",
+        "mail":"hashem@cse.kuet.ac.bd",
+        "salary": 820
+        },
+        {
+            "name":"Dr. K. M. Azharul Hasan",
+            "weblink":"http://www.kuet.ac.bd/cse/azhasan/",
+            "designation":"Professor",
+            "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/137_2015-11-18_1447826343.jpg",
+            "phone":"+88041-769468-75 Ext-355",
+            "mail":"azhasan@gmail.com",
+            "salary": 750
+      },
+     {
+                "name":"Dr. Kazi Md. Rokibul Alam",
+                "weblink":"http://www.kuet.ac.bd/cse/rokibul/",
+                "designation":"Professor",
+                "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/139_2015-11-18_1447826369.jpg",
+                "phone":"+88041-769468-75 Ext-365",
+                "mail":"rokib@cse.kuet.ac.bd",
+                "salary": 720
+      },
+
+    
+     {
+                    "name":"Dr. Md. Sheikh Sadi",
+                    "weblink":"http://www.kuet.ac.bd/cse/sheikhSadi/",
+                    "designation":"Professor",
+                    "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/167_2016-01-07_1452120976.jpg",
+                    "phone":"+88041-769468-75 Ext-353",
+                    "mail":"sadi@cse.kuet.ac.bd",
+                    "salary": 700
+      },
+
+    {
+                        "name":"Dr. Md. Aminul Haque ",
+                        "weblink":"http://www.kuet.ac.bd/cse/akhand/",
+                        "designation":"Professor",
+                        "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/144_2015-11-18_1447826423.jpg",
+                        "phone":"+88041-769468-75 Ext-363",
+                        "mail":"akhand@cse.kuet.ac.bd",
+                        "salary": 800
+    },
+
+                        {
+                            "name":"Dr. Pintu Chandra Shill",
+                            "weblink":"http://www.kuet.ac.bd/cse/pintuShill",
+                            "designation":"Professor",
+                            "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/177_2015-11-30_1448867357.jpg",
+                            "phone":"+88041-769468 ~ 75 Ext-375",
+                            "mail":"pintuATcse.kuet.ac.bd",
+                            "salary": 890
+                            },
+
+                            {
+                                "name":"Dr. Sk. Mohammad Ahsan",
+                                "weblink":"http://www.kuet.ac.bd/cse/smmasudul/",
+                                "designation":"Professor",
+                                "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/176_2015-11-30_1448867983.jpg",
+                                "phone":"+88041-769468 ~ 75 Ext-8369",
+                                "mail":"smmasudulahsan@yahoo.com",
+                                "salary": 710
+                                },
+
+                                {
+                                    "name":"Md. Abdus Salim Mollah",
+                                    "weblink":"http://www.kuet.ac.bd/cse/salim9326",
+                                    "designation":"Assistant Professor",
+                                    "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/145_2015-11-30_1448867403.jpg",
+                                    "phone":"+88041-769468-75 Ext-357",
+                                    "mail":"salim9326@cse.kuet.ac.bd",
+                                    "salary": 680
+                                    },
+
+      {
+          "name":"Md. Kowsar Hossain ",
+            "weblink":"http://www.kuet.ac.bd/cse/kowsarhossain/",
+          "designation":"Assistant Professor",
+             "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/254_2015-11-30_1448867585.jpg",
+              "phone":"+88041-769468-75 Ext-350",
+                 "mail":"khossain@cse.kuet.ac.bd",
+                    "salary": 690
+       },
+        {
+            "name":"G. M. Mashrur-E-Elahi",
+              "weblink":"http://www.kuet.ac.bd/cse/melahi/",
+                "designation":"Assistant Professor",
+                "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/268_2015-11-30_1448867527.jpg",
+                "phone":"+88041-769468-75 Ext-379",
+                "mail":"melahiATcse.kuet.ac.bd",
+                  "salary": 680
+       },
+     {
+                 "name":"Al-Mahmud",
+                   "weblink":"http://www.kuet.ac.bd/cse/mahmud/",
+                      "designation":"Assistant Professor",
+                  "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/288_2015-11-18_1447826555.jpg",
+                     "phone":"+88041-769468-75 Ext-367",
+                         "mail":"mahmudATcse.kuet.ac.bd",
+                       "salary": 680
+    },
+
+   {
+          "name":"Bishnu Sarker",
+          "weblink":"http://www.kuet.ac.bd/cse/bishnu/",
+          "designation":"Assistant Professor",
+          "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/932_2015-11-18_1447826515.jpg",
+        "phone":"+88041-769468-75 Ext-353",
+           "mail":"bishnu.kuet@gmail.com",
+              "salary": 680
+  },
+        
+      {
+          "name":"Mehenuma Tabassum",
+          "weblink":"http://www.kuet.ac.bd/cse/tabassum",
+           "designation":"Assistant Professor",
+           "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/1429_2015-12-29_1451371902.jpg",
+             "phone":"+88041-769468-75, Ext-361",
+                "mail":"tabassum.kuet.ac.bd@gmail.com",
+               "salary": 600
+       },
+          {
+                  "name":"Saifuddin Mahmud",
+                  "weblink":"http://kuet.ac.bd/cse/sharifSmahmud/",
+                   "designation":"Assistant Professor",
+                   "image":"http://www.kuet.ac.bd/department/CSE/images/faculty/1430_2015-11-18_1447826619.jpg",
+               "phone":"+88041-769468-75 Ext-3",
+          "mail":"saifuddin.kuet.bd@gmail.com",
+        "salary": 680
+                                                            }                                                
+]

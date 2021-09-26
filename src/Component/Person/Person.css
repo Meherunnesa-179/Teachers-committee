@@ -1,0 +1,14 @@
+.persons-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 0;
+    padding: 20px;
+}
+.info-container{
+    margin: 10px;
+    /* padding: 10px; */
+    display: grid;
+    border: 1px solid gray;
+    border-radius: 10px;
+    grid-template-columns: repeat(3 , 1fr)
+}
